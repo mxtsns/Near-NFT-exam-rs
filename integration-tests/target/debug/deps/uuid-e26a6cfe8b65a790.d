@@ -1,0 +1,14 @@
+/home/tungxuan/Documents/projects/vbi-course/btvn-buoi-4/btvn/integration-tests/target/debug/deps/uuid-e26a6cfe8b65a790.rmeta: /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/lib.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/builder.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/error.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/parser.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/fmt.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/timestamp.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/v4.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/rng.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/external.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/macros.rs
+
+/home/tungxuan/Documents/projects/vbi-course/btvn-buoi-4/btvn/integration-tests/target/debug/deps/uuid-e26a6cfe8b65a790.d: /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/lib.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/builder.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/error.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/parser.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/fmt.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/timestamp.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/v4.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/rng.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/external.rs /home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/macros.rs
+
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/lib.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/builder.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/error.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/parser.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/fmt.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/timestamp.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/v4.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/rng.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/external.rs:
+/home/tungxuan/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.2.2/src/macros.rs:
